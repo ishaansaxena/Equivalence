@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 datasets/
-best_mlp_model.model
+*.model
 
